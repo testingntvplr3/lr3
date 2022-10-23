@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCalc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Calc xsi:type="Hourly">
+    <S>1243.42</S>
+    <I>62</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>17598.41</S>
+    <I>15662.89</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>26870.18</S>
+    <I>22858.75</I>
+  </Calc>
+  <Calc xsi:type="Hourly">
+    <S>980.74</S>
+    <I>42</I>
+  </Calc>
+  <Calc xsi:type="Hourly">
+    <S>1245.81</S>
+    <I>97</I>
+  </Calc>
+  <Calc xsi:type="Hourly">
+    <S>1128.01</S>
+    <I>30</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>31511.36</S>
+    <I>23879.91</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>6976.15</S>
+    <I>17776.64</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>44982.21</S>
+    <I>14507.06</I>
+  </Calc>
+  <Calc xsi:type="Hourly">
+    <S>952.61</S>
+    <I>89</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>45911.78</S>
+    <I>27300.5</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>6218.35</S>
+    <I>4264.05</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>45098.03</S>
+    <I>16327.76</I>
+  </Calc>
+  <Calc xsi:type="RateSalary">
+    <S>41993.62</S>
+    <I>7024.7</I>
+  </Calc>
+</ArrayOfCalc>
